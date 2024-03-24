@@ -1,0 +1,19 @@
+.parent{
+    font-size: 1em;
+
+}
+.row{
+    display: flex;
+}
+
+
+.col{
+    height: 4rem;
+    width: 4rem;
+    border: 1px solid black;
+    font-size: 1.8em;
+    text-align: center;
+    cursor: pointer;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
